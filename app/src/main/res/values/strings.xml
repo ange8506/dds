@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">打地鼠助手</string>
+    <string name="accessibility_service_description">自动识别并点击游戏中的彩色兔子，避开炸弹。需要此权限来检测屏幕内容并执行点击操作。</string>
+</resources>
+

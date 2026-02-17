@@ -1,0 +1,3 @@
+rootProject.name = "打地鼠助手"
+include ':app'
+
